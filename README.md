@@ -70,9 +70,8 @@ ros2 launch pickup_bot pickup_bot_empty_world.launch.xml
 2. Clone this repository:
 ```bash
    git clone https://github.com/username/pickup-bot.git
+   ```
 3. Build the ROS2 package:
    ```bash
    colcon build
    ```
-
-Feel free to modify this to better fit your project's specifics!
